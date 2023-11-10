@@ -1,0 +1,15 @@
+Polling Log
+This page captures the polling log that triggered this build.
+
+Started on Nov 10, 2023, 7:22:00 PM
+Using strategy: Default
+[poll] Last Built Revision: Revision e9117ea17b73d75efeed02bce20f4f0f22f7419a (refs/remotes/origin/main)
+The recommended git tool is: NONE
+No credentials specified
+ > git --version # timeout=10
+ > git --version # 'git version 2.40.1'
+ > git ls-remote -h -- https://github.com/shubham51294/assign-03-2023Q1.git # timeout=10
+Found 1 remote heads on https://github.com/shubham51294/assign-03-2023Q1.git
+[poll] Latest remote head revision on refs/heads/main is: 610300811330b2f2bcb9dd0af7fa8eb526c7d20b
+Done. Took 0.51 sec
+Changes found
